@@ -10,6 +10,8 @@ YouTube video downloader Python code. You just have to put the link to the video
 You can also download all resolutions of a single video or whole playlist with the help of youTube video downloader Python GUI. select the location where the video needs to be installed and your video will be downloaded.
 
 You can also select the quality of the video with the help of code. If you want to download only audio in this project, that can be done with YouTube video downloader Python Tkinter.
+
+
 modules used:
   moviepy
   pytube
